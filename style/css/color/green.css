@@ -1,0 +1,160 @@
+.tp-loader.spinner0,
+#fancybox-loading div {
+    border-left: 3px solid rgba(101,196,184,.15);
+    border-right: 3px solid rgba(101,196,184,.15);
+    border-bottom: 3px solid rgba(101,196,184,.15);
+    border-top: 3px solid rgba(101,196,184,.8);
+}
+a {
+    color: #65c4b8;
+}
+.colored {
+    color: #65c4b8
+}
+.color-wrapper {
+    background: #65c4b8;
+}
+.color-wrapper:hover {
+    background: #5eb2a7;
+}
+.post-title a:hover {
+    color: #65c4b8
+}
+ul.circled li:before {
+    color: #65c4b8;
+}
+blockquote {
+    background: #65c4b8;
+}
+.footer a:hover {
+    color: #65c4b8
+}
+.nav > li > a:hover {
+    color: #65c4b8;
+}
+.nav > li.current > a {
+    color: #65c4b8;
+}
+.navbar .nav .open > a,
+.navbar .nav .open > a:hover,
+.navbar .nav .open > a:focus {
+    color: #65c4b8;
+}
+.navbar .dropdown-menu > li > a:hover,
+.navbar .dropdown-menu > li > a:focus,
+.navbar .dropdown-submenu:hover > a,
+.navbar .dropdown-submenu:focus > a,
+.navbar .dropdown-menu > .active > a,
+.navbar .dropdown-menu > .active > a:hover,
+.navbar .dropdown-menu > .active > a:focus {
+    color: #65c4b8;
+}
+.btn,
+.parallax .btn-submit,
+.btn-submit {
+    background: #65c4b8;
+}
+.btn:hover,
+.btn:focus,
+.btn:active,
+.btn.active,
+.parallax .btn-submit:hover {
+    background: #5eb2a7;
+}
+.black-wrapper .btn:hover {
+    border: 1px solid #65c4b8;
+    color: #65c4b8 !important;
+    background: none;
+}
+.meta a:hover,
+.footer-meta a:hover {
+    color: #65c4b8
+}
+.more {
+    border-bottom: 1px solid #65c4b8
+}
+.tooltip-inner {
+    background-color: #65c4b8;
+}
+.tooltip.top .tooltip-arrow,
+.tooltip.top-left .tooltip-arrow,
+.tooltip.top-right .tooltip-arrow {
+    border-top-color: #65c4b8
+}
+.tooltip.right .tooltip-arrow {
+    border-right-color: #65c4b8
+}
+.tooltip.left .tooltip-arrow {
+    border-left-color: #65c4b8
+}
+.tooltip.bottom .tooltip-arrow,
+.tooltip.bottom-left .tooltip-arrow,
+.tooltip.bottom-right .tooltip-arrow {
+    border-bottom-color: #65c4b8
+}
+figure a .text-overlay {
+    background: #65c4b8;
+    background: rgba(101,196,184,0.90);
+}
+.icon-overlay a .icn-more {
+    background: #65c4b8;
+    background: rgba(101,196,184,0.93);
+}
+.filter ul li a:hover,
+.filter ul li.current a,
+.filter ul li a.active {
+    color: #65c4b8
+}
+.panel-title > a:hover {
+    color: #65c4b8
+}
+.progress-list li em {
+    color: #65c4b8;
+}
+.progress.plain {
+    border: 1px solid #65c4b8;
+}
+.progress.plain .bar {
+    background: #65c4b8;
+}
+.tp-caption a {
+    color: #65c4b8
+}
+.services-1 .icon i.icn {
+    color: #65c4b8;
+}
+.services-2 i {
+    color: #65c4b8;
+}
+.tabs-top .tab a:hover,
+.tabs-top .tab.active a {
+    color: #65c4b8
+}
+.pagination ul > li > a,
+.pagination ul > li > span {
+    background: #65c4b8;
+}
+.pagination ul > li > a:hover,
+.pagination ul > li > a:focus,
+.pagination ul > .active > a,
+.pagination ul > .active > span {
+    background: #5eb2a7;
+}
+.sidebox a:hover {
+    color: #65c4b8
+}
+#comments .info h2 a:hover {
+    color: #65c4b8
+}
+#comments a.reply-link:hover {
+    color: #65c4b8
+}
+.pricing .plan h4 span {
+    color: #65c4b8
+}
+@media (max-width: 767px) { 
+	.navbar-nav > li > a,
+	.navbar-nav > li > a:focus {
+	    color: #65c4b8
+	}
+}
